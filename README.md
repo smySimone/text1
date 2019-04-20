@@ -40,12 +40,12 @@
 
 <td style="background-color:#d6f58e;height:1000px;width:1180px;vertical-align:top;font-family:楷体;">
 <h4><b>多肉植物</b></h4>
-<img src="smySimone/text1/blob/master/图1.jpg" alt="图1 " width="360" height="450">
-<img src="smySimone/text1/blob/master/图2.jpg" alt="图2 " width="360" height="450">
-<img src="smySimone/text1/blob/master/图3.jpg" alt="图3" width="360" height="450"><br>
-<img src="smySimone/text1/blob/master/图4.jpg" alt="图4" width="360" height="450">
-<img src="smySimone/text1/blob/master/图5.jpg" alt="图5" width="360" height="450">
-<img src="smySimone/text1/blob/master/图6.jpgG" alt="图6" width="360" height="450"><br>
+<img src="https://github.com/smySimone/text1/blob/master/图1.jpg" alt="图1 " width="360" height="450">
+<img src="https://github.com/smySimone/text1/blob/master/图2.jpg" alt="图2 " width="360" height="450">
+<img src="https://github.com/smySimone/text1/blob/master/图3.jpg" alt="图3" width="360" height="450"><br>
+<img src="https://github.com/smySimone/text1/blob/master/图4.jpg" alt="图4" width="360" height="450">
+<img src="https://github.com/smySimone/text1/blob/master/图5.jpg" alt="图5" width="360" height="450">
+<img src="https://github.com/smySimone/text1/blob/master/图6.jpg" alt="图6" width="360" height="450"><br>
 <p>多肉植物是指植物营养器官肥大的高等植物，通常具根、茎、叶三种营养器官和花、果实、种子三种繁殖器官。<br>在园艺上，又称肉质植物或多肉花卉，但以多肉植物这个名称最为常用。</p>
 <p>多肉植物在中国也很常见，如景天属、伽兰菜属的一些品种一般在农村的屋顶上也会出现，山野中也时有野生的块根种类，只不过中国人不太重视这些植物种类，没有开发成为商品。<br>现今韩国、日本等国家将他们培育出来销往世界各地。</p>
 
@@ -55,12 +55,12 @@
 <p>全世界共有多肉植物约一万余种，在植物分类上隶属一百多个科。<br></p>
 
 常见于人工栽培的多肉植物大多来自仙人掌科、番杏科、大戟科、景天科、独尾草科、夹竹桃科(包括原萝藦科)、天门冬科和菊科等科，此八科物种数量总和占多肉植物的86%。<br>
-<img src="smySimone\text1\图11.JPG" alt="图11 " width="360" height="450">
-<img src="smySimone\text1\图12.JPG" alt="图12 " width="360" height="450">
-<img src="smySimone\text1\图13.JPG" alt="图13" width="360" height="450"><br>
-<img src="smySimone\text1\图14.JPG" alt="图14" width="360" height="450">
-<img src="smySimone\text1\图15.JPG" alt="图15" width="360" height="450">
-<img src="smySimone\text1\图16.JPG" alt="图16" width="360" height="450"><br>
+<img src="https://github.com/smySimone/text1/blob/master/图11.jpg"" alt="图11 " width="360" height="450">
+<img src="https://github.com/smySimone/text1/blob/master/图12.jpg" alt="图12 " width="360" height="450">
+<img src="https://github.com/smySimone/text1/blob/master/图13.jpg" alt="图13" width="360" height="450"><br>
+<img src="https://github.com/smySimone/text1/blob/master/图14.jpg" alt="图14" width="360" height="450">
+<img src="https://github.com/smySimone/text1/blob/master/图15.jpg" alt="图15" width="360" height="450">
+<img src="https://github.com/smySimone/text1/blob/master/图16.jpg" alt="图16" width="360" height="450"><br>
 其它常见于含有多肉植物物种的科包括凤梨科、鸭跖草科、马齿苋科、回欢草科、葡萄科、酢浆草科、荨麻科、石蒜科、苦苣苔科、唇形科、胡椒科、粟米草科、紫茉莉科、吊兰科、土人参科、落葵科、瓣鳞花科、灯心草科、罂粟科、百合科、百部科、菝葜科、姜科、兰科等。<br>  
 
 
@@ -105,10 +105,10 @@
 <h4><b><a id="C3">多肉植物繁殖</a></b></h4>
 多肉植物最常用的繁殖方法有播种、扦插、嫁接、分株等。
 <ol>
-  <li><a href="smySimone\text1\bozhong" target="_blank">播种</a><br>
-  <li><a href="smySimone\text1\qiancha" target="_blank">扦插</a><br>
-  <li><a href="smySimone\text1\jiajie" target="_blank">嫁接</a><br>
-  <li><a href="smySimone\text1\fenzhu" target="_blank">分株</a><br>
+  <li><a href="https://github.com/smySimone/text1/edit/master/bozhong" target="_blank">播种</a><br>
+  <li><a href="https://github.com/smySimone/text1/edit/master/qiancha" target="_blank">扦插</a><br>
+  <li><a href="https://github.com/smySimone/text1/edit/master/bozhong" target="_blank">嫁接</a><br>
+  <li><a href="https://github.com/smySimone/text1/edit/master/fenzhu" target="_blank">分株</a><br>
 </ol>
 
 
