@@ -55,7 +55,7 @@
 <p>全世界共有多肉植物约一万余种，在植物分类上隶属一百多个科。<br></p>
 
 常见于人工栽培的多肉植物大多来自仙人掌科、番杏科、大戟科、景天科、独尾草科、夹竹桃科(包括原萝藦科)、天门冬科和菊科等科，此八科物种数量总和占多肉植物的86%。<br>
-<img src="https://github.com/smySimone/text1/blob/master/图11.jpg"" alt="图11 " width="360" height="450">
+<img src="https://github.com/smySimone/text1/blob/master/图11.jpg" alt="图11 " width="360" height="450">
 <img src="https://github.com/smySimone/text1/blob/master/图12.jpg" alt="图12 " width="360" height="450">
 <img src="https://github.com/smySimone/text1/blob/master/图13.jpg" alt="图13" width="360" height="450"><br>
 <img src="https://github.com/smySimone/text1/blob/master/图14.jpg" alt="图14" width="360" height="450">
