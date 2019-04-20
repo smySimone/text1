@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>project 1 smy</title>
-<style> h1,h4{text-align:center} </style>
+<style> h1,h4 {text-align:center} </style>
 </head>
 
 <body>
@@ -110,8 +110,6 @@
   <li><a href="https://github.com/smySimone/text1/edit/master/bozhong" target="_blank">嫁接</a><br>
   <li><a href="https://github.com/smySimone/text1/edit/master/fenzhu" target="_blank">分株</a><br>
 </ol>
-
-
 
 
 </td>
