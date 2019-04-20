@@ -40,12 +40,12 @@
 
 <td style="background-color:#d6f58e;height:1000px;width:1180px;vertical-align:top;font-family:楷体;">
 <h4><b>多肉植物</b></h4>
-<img src="smySimone\text1\图1.JPG" alt="图1 " width="360" height="450">
-<img src="smySimone\text1\图2.JPG" alt="图2 " width="360" height="450">
-<img src="smySimone\text1\图3.JPG" alt="图3" width="360" height="450"><br>
-<img src="smySimone\text1\图4.JPG" alt="图4" width="360" height="450">
-<img src="smySimone\text1\图5.JPG" alt="图5" width="360" height="450">
-<img src="smySimone\text1\图6.JPG" alt="图6" width="360" height="450"><br>
+<img src="smySimone/text1/blob/master/图1.jpg" alt="图1 " width="360" height="450">
+<img src="smySimone/text1/blob/master/图2.jpg" alt="图2 " width="360" height="450">
+<img src="smySimone/text1/blob/master/图3.jpg" alt="图3" width="360" height="450"><br>
+<img src="smySimone/text1/blob/master/图4.jpg" alt="图4" width="360" height="450">
+<img src="smySimone/text1/blob/master/图5.jpg" alt="图5" width="360" height="450">
+<img src="smySimone/text1/blob/master/图6.jpgG" alt="图6" width="360" height="450"><br>
 <p>多肉植物是指植物营养器官肥大的高等植物，通常具根、茎、叶三种营养器官和花、果实、种子三种繁殖器官。<br>在园艺上，又称肉质植物或多肉花卉，但以多肉植物这个名称最为常用。</p>
 <p>多肉植物在中国也很常见，如景天属、伽兰菜属的一些品种一般在农村的屋顶上也会出现，山野中也时有野生的块根种类，只不过中国人不太重视这些植物种类，没有开发成为商品。<br>现今韩国、日本等国家将他们培育出来销往世界各地。</p>
 
